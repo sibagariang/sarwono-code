@@ -1,4 +1,5 @@
 <?php
+//untuk menghapus bagian error
 ob_start();
 error_reporting(0); 
 include "koneksi.php";
